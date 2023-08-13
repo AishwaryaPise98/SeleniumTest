@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-13T13:43:10 BST" name="Default suite" finished-at="2023-08-13T13:44:07 BST" duration-ms="56646">
+    <groups>
+    </groups>
+    <test started-at="2023-08-13T13:43:10 BST" name="Default test" finished-at="2023-08-13T13:44:07 BST" duration-ms="56646">
+      <class name="TestCases.MyFirstTestFW">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestCases.MyFirstTestFW@2cf3d63b]" started-at="2023-08-13T13:43:12 BST" name="setUp" finished-at="2023-08-13T13:43:18 BST" duration-ms="5474" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="LoginTest(java.lang.String,java.lang.String)[pri:0, instance:TestCases.MyFirstTestFW@2cf3d63b]" started-at="2023-08-13T13:43:18 BST" name="LoginTest" data-provider="testdata" finished-at="2023-08-13T13:43:31 BST" duration-ms="13573" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[aish98ap@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Aishwarya98@]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCases.MyFirstTestFW@2cf3d63b]" started-at="2023-08-13T13:43:31 BST" name="tearDown" finished-at="2023-08-13T13:43:31 BST" duration-ms="218" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestCases.MyFirstTestFW@2cf3d63b]" started-at="2023-08-13T13:43:31 BST" name="setUp" finished-at="2023-08-13T13:43:36 BST" duration-ms="4286" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="LoginTest(java.lang.String,java.lang.String)[pri:0, instance:TestCases.MyFirstTestFW@2cf3d63b]" started-at="2023-08-13T13:43:36 BST" name="LoginTest" data-provider="testdata" finished-at="2023-08-13T13:43:48 BST" duration-ms="12682" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[aishwaryapise@yahoo.in]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Pise_98@aish]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCases.MyFirstTestFW@2cf3d63b]" started-at="2023-08-13T13:43:48 BST" name="tearDown" finished-at="2023-08-13T13:43:49 BST" duration-ms="180" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestCases.MyFirstTestFW@2cf3d63b]" started-at="2023-08-13T13:43:49 BST" name="setUp" finished-at="2023-08-13T13:43:54 BST" duration-ms="5253" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="LoginTest(java.lang.String,java.lang.String)[pri:0, instance:TestCases.MyFirstTestFW@2cf3d63b]" started-at="2023-08-13T13:43:54 BST" name="LoginTest" data-provider="testdata" finished-at="2023-08-13T13:44:07 BST" duration-ms="13083" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[aishwarya.pise@viit.ac.in]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Aishwarya@98]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCases.MyFirstTestFW@2cf3d63b]" started-at="2023-08-13T13:44:07 BST" name="tearDown" finished-at="2023-08-13T13:44:07 BST" duration-ms="190" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCases.MyFirstTestFW -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
